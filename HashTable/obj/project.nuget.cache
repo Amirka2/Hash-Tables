@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7lXWAIaJhDi4MbtKJ6ZY49XOaziQzEzjIPKhriq+lAocI1ViuaEgKRJnMMuCoj73bALKsCDtfm9O5osVoo1Drw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amirka\\source\\repos\\HashTable\\HashTable\\HashTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amirka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
